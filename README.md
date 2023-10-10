@@ -1,11 +1,10 @@
 <div id="header" align="center">
-  <img src="" width="800"/>
 </div>
 <div id="badges" align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/) 
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-marquina-j4v1/) 
+  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=outlook&logoColor=white)](xxx)
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](xxx)
 
   ![1660145618626](https://github.com/VictorMarquina/VictorMarquina/assets/142264250/80103b74-8f36-4d45-81ae-6ad5b21db85d)
  
