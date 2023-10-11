@@ -4,7 +4,7 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-marquina-j4v1/) 
   [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=outlook&logoColor=white)](xxx)
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](xxx)
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://victormarquina.github.io)
 
   ![1660145618626](https://github.com/VictorMarquina/VictorMarquina/assets/142264250/80103b74-8f36-4d45-81ae-6ad5b21db85d)
  
@@ -30,8 +30,9 @@ Actualmente me encuentro en mi ultimo año estudiando Ingeneria industrial y est
 
 * 🖥️  Disfruto explorando innovadoras maneras de agilizar mis tareas laborales.
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-VictorMarquina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-marquina-j4v1/)
-   
+* 📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin [![Linkedin Badge](https://img.shields.io/badge/-VictorMarquina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-marquina-j4v1/) o enviarme un mail a victormarquina@outlook.es
+
+* 📊 En mis repositorios vas a encontrar contenido teórico y práctico sobre: SQL, python, estadística, machine learning y visualización de datos. 
 
 
 ---
